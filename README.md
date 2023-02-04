@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jusantamaria
-- 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning Frontend development
+- 👀 I’m interested in Automation testing with Selenium and Java
+- 🌱 I’m currently learning Automation testing
 - 📫 How to reach me julikq22@gmail.com
 
 <!---
