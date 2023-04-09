@@ -1,4 +1,4 @@
-#Hi, I'm Julian Santamaria!
+# Hi, I'm Julian Santamaria!
 
 I work in Quality Assurance Automation.
 Focused on Test and Process Automation mainly using Cypress.io
