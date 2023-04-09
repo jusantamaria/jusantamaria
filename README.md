@@ -1,7 +1,23 @@
-- 👋 Hi, I’m @jusantamaria from Mar del Plata, Argentina. I'm graduated from Seward County Community College with an associate of Business degree. Now, I'm an Automation tester.
-- 👀 I’m interested in Test engenering.
-- 🌱 I’m currently looking for a job in Automation testing specially with Cypress.io.
-- 📫 How to reach me julikq22@gmail.com
+Hi, I'm Julian Santamaria!
+
+I work in Quality Assurance Automation.
+Focused on Test and Process Automation mainly using Cypress.io
+
+💻My Tech stack:
+
+
+
+
+
+
+
+
+
+
+
+🤖 My Test Automation projects:
+
+
 
 <!---
 jusantamaria/jusantamaria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
