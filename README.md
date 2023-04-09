@@ -3,7 +3,7 @@
 I work in Quality Assurance Automation.
 Focused on Test and Process Automation mainly using Cypress.io
 
-💻My Tech tools:
+💻My Tech stack:
 
 - Cypress.io
 - Cucumber
@@ -16,7 +16,7 @@ Focused on Test and Process Automation mainly using Cypress.io
 
 - AysaLoginTest  First part of a Login test for an important water company in Argentina. Although this is a little project this is an important one for me since was the first real project I made in automation testing.
 - JuiceShop
-- https://github.com/jusantamaria/AysaLoginTest#aysalogi
+- 
 
 
 
