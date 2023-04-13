@@ -10,6 +10,7 @@ Focused on Test and Process Automation mainly using Cypress.io
 - VSCode
 - Git
 - MySQL
+- Postman
 - JavaScript
 
 #### 🤖 My Test Automation projects:
