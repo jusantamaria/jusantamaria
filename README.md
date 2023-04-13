@@ -14,10 +14,16 @@ Focused on Test and Process Automation mainly using Cypress.io
 
 🤖 My Test Automation projects:
 
-- AysaLoginTest  First part of a Login test for an important water company in Argentina. Although this is a little project this is an important one for me since was the first real project I made in automation testing.
-- JuiceShop
-- 
+- JuiceShop: In this project I create scripts to make a purchase in JuiceShop website from scratch, that means creating an account, then login, create an address, select it and checkout. In this project I 'm using Cypress.Commands
+- AysaLoginTest:  First part of a Login test for an important water company in Argentina. Although this is a little project this is an important one for me since was the first real automation work I made in automation testing.
+- TradeMeProject: This is a real interview project that I resolved using Cypress. The project is based on testing the quantity of products in some searches criteria.
+- AmznPorject: On this project I'm testing the Amazon search functionality. I use Page Object Model with Cypress
 
+# To connect with me
+
+![image](https://user-images.githubusercontent.com/85115724/231786976-3e75d254-4c6e-4161-b15e-39243b31b6f0.png)
+
+https://www.linkedin.com/in/julian-santamaria5/
 
 
 <!---
